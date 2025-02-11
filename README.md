@@ -12,7 +12,7 @@ This is a landing page for Sushiman, a fictional Japanese food delivery service.
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://vanilla-sushi-landing-page.vercel.app/).
 
 ## Features
 
@@ -32,7 +32,7 @@ You can view a live demo of the project [here](#).
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/fred-18-hub/vue-todo-app.git
+   git clone https://github.com/fred-18-hub/vanilla-sushi-landing-page.git
    ```
 2. Navigate to the project directory:
    ```sh
